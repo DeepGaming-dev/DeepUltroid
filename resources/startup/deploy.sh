@@ -68,7 +68,7 @@ echo '
         •• Cloning Repository
 '
 
-git clone https://github.com/Teamultroid/Ultroid.git /root/TeamUltroid/
+git clone https://github.com/HARSH2414/ultroid.git /root/TeamUltroid/
 
 echo '
 	•• Getting Libraries and Installing
