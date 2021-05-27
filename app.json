@@ -1,11 +1,11 @@
 {
-    "name": "Ultroid UserBot",
+    "name": "DeepUltroid UserBot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
+    "logo": "https://telegra.ph/Deploy-Logo-05-27",
     "keywords": ["Telethon", "telegram", "userbot", "python"],
-    "repository": "https://github.com/Harsh2414/ultroid",
-    "website": "https://ultroid.netlify.app/",
-    "success_url": "https://t.me/TheUltroid",
+    "repository": "https://github.com/DeepGaming-dev/DeepUltroid",
+  
+    "success_url": "https://t.me/DeepGaming",
     "stack": "container",
     "env": {
         "API_ID": {
