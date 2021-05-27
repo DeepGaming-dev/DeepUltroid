@@ -1,4 +1,4 @@
-# F**K Ultroid - UserBot
+# DeepUtroid - UserBot
 A stable pluggable Telegram userbot, based on Telethon.
 
 <p align="center">
